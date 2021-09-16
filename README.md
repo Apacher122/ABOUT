@@ -13,3 +13,5 @@ If you wish to contact me, email me:
   - reychristopher.d.aparece.civ@gmail.com
 
 Aside from class projects, personal projects will be made available here as well.
+
+Most of my repositories are made private, only to be viewed for appropriate institutional parties such as employers and/or universities.
