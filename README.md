@@ -8,7 +8,7 @@ These universities/colleges include:
 
 If you wish to contact me, email me:
   - rda2126@columbia.edu
-  - rcda.civ@gmail.com
+  - rcda.civ@gmail.com (preferred)
 
 Most of my repositories are made private, only to be viewed by appropriate institutional parties such as employers and/or universities.  
 
