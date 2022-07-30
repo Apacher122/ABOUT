@@ -10,6 +10,6 @@ If you wish to contact me, email me:
   - rda2126@columbia.edu
   - rcda.civ@gmail.com
 
-Aside from class projects, personal projects will be made available here as well.
+Most of my repositories are made private, only to be viewed by appropriate institutional parties such as employers and/or universities.  
 
-Most of my repositories are made private, only to be viewed by appropriate institutional parties such as employers and/or universities.
+### Aside from class projects, my wacky personal projects will be made available here as well.
