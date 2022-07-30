@@ -12,4 +12,4 @@ If you wish to contact me, email me:
 
 Aside from class projects, personal projects will be made available here as well.
 
-Most of my repositories are made private, only to be viewed for appropriate institutional parties such as employers and/or universities.
+Most of my repositories are made private, only to be viewed by appropriate institutional parties such as employers and/or universities.
